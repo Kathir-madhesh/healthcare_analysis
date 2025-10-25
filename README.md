@@ -1,4 +1,5 @@
 # 🏥 Hospital Data Analytics Project  
+<a href="https://us-east-1.quicksight.aws.amazon.com/sn/accounts/385681338580/dashboards/d945c09f-9342-4bdb-bd3c-f842f119b898?directory_alias=kathir-healthcare-data">to view the dashboard</a>
 
 ### 📊 Overview  
 This project focuses on analyzing hospital data using **Amazon QuickSight** to gain insights into patient demographics, medical conditions, admission types, and billing trends.  
