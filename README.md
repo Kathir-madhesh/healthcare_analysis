@@ -34,5 +34,3 @@ The report includes patient demographics (age, gender, blood type), and financia
 - **Top hospitals/doctors:** High variation in patient counts and billing totals.  
 
 ---
-
-## 🗂️ Project Structure  
